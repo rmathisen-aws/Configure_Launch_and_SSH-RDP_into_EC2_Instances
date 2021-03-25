@@ -1,9 +1,9 @@
-# Configure, Launch, and SSH into EC2 Instance
+# Configure, Launch, and SSH into EC2 Linux Instance
 
 **Configuring & Launching the EC2 Instance:** \
 EC2 → Launch Instance → Launch Instance \
 
-Choose AMI (Linux 2 AMI)
+Choose AMI (**Linux 2 AMI**)
 
 Choose Instance Type (t2.micro)
 
