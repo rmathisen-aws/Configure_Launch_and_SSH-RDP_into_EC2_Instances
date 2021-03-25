@@ -13,4 +13,8 @@ Storage: The default settings are provided by the AMI. AMI's have a Block Mappin
 
 Add Tags
 
-Security Group: 
+Security Group: Source of 0.0.0.0/0 allows any IP address on the internet to connect to this Instance. Changing to "My IP" will only allow you to connect to this instance.
+
+Key Pair: Create & Download new key pair. \
+A Key Pair has a Private Key (you just downloaded this!)  & Public Key (AWS keeps this copy). \
+When you select the Key Pair to use, AWS will place this Public Key on the Instance. We use our Private Key to connect to the instance.
