@@ -21,7 +21,7 @@ A Key Pair has a Private Key (you just downloaded this!)  & Public Key (AWS keep
 When you select the Key Pair to use, AWS will place this Public Key on the Instance. We use our Private Key to connect to the instance.
 
 \
-**Status Checks:** \
+**Status Checks:**
 
 **System Status Checks (AWS):** Make sure the traffic can reach the hardware the instance is running on. Verifies that your instance is reachable. Ensures that your EC2 Host, power, networking, and software systems are all working.
 
