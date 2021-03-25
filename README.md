@@ -52,6 +52,7 @@ Key Pair: \
 Choose existing key pair & acknowledge that you still have that key pair file
 
 \
+\
 **Connecting to your EC2 Instance via RDP:** \
 EC2 → Instances → Instances \
 Right click your Instance → Connect → RDP Client → Get Password \
