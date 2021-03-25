@@ -1,7 +1,7 @@
 # Configure, Launch, and SSH/RDP into EC2 Instances
 
 **Configuring, Launching, and SSH into the EC2 Linux Instance:** \
-EC2 → Launch Instance → Launch Instance \
+EC2 → Launch Instance → Launch Instance
 
 Choose AMI (**Linux 2 AMI**)
 
